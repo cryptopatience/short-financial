@@ -1,0 +1,14 @@
+# Streamlit 테마 설정
+
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+# 헤더 메시지 숨기기
+headless = true
+# 파일 업로드 크기 제한 (MB)
+maxUploadSize = 200
