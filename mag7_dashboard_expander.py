@@ -527,7 +527,7 @@ with tab2:
     #     """)
 
      with st.expander("📖 차트 해석 가이드", expanded=False):
-    st.markdown("""
+        st.markdown("""
         ## 🔴 MAG 7+2 공매도 분석 지표 종합 정리
     
         ### 1. 📊 차트 A: YF Short % of Float (유통주식 대비 공매도 비율)
